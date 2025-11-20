@@ -1,0 +1,15 @@
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\bin\Debug\net10.0\Pattern5.exe
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\bin\Debug\net10.0\Pattern5.deps.json
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\bin\Debug\net10.0\Pattern5.runtimeconfig.json
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\bin\Debug\net10.0\Pattern5.dll
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\bin\Debug\net10.0\Pattern5.pdb
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\obj\Debug\net10.0\Pattern5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\obj\Debug\net10.0\Pattern5.AssemblyInfoInputs.cache
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\obj\Debug\net10.0\Pattern5.AssemblyInfo.cs
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\obj\Debug\net10.0\Pattern5.csproj.CoreCompileInputs.cache
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\obj\Debug\net10.0\Pattern5.sourcelink.json
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\obj\Debug\net10.0\Pattern5.dll
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\obj\Debug\net10.0\refint\Pattern5.dll
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\obj\Debug\net10.0\Pattern5.pdb
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\obj\Debug\net10.0\Pattern5.genruntimeconfig.cache
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern5\obj\Debug\net10.0\ref\Pattern5.dll
