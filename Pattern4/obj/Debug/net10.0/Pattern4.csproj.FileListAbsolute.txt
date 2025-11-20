@@ -1,0 +1,15 @@
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\bin\Debug\net10.0\Pattern4.exe
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\bin\Debug\net10.0\Pattern4.deps.json
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\bin\Debug\net10.0\Pattern4.runtimeconfig.json
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\bin\Debug\net10.0\Pattern4.dll
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\bin\Debug\net10.0\Pattern4.pdb
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\obj\Debug\net10.0\Pattern4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\obj\Debug\net10.0\Pattern4.AssemblyInfoInputs.cache
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\obj\Debug\net10.0\Pattern4.AssemblyInfo.cs
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\obj\Debug\net10.0\Pattern4.csproj.CoreCompileInputs.cache
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\obj\Debug\net10.0\Pattern4.sourcelink.json
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\obj\Debug\net10.0\Pattern4.dll
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\obj\Debug\net10.0\refint\Pattern4.dll
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\obj\Debug\net10.0\Pattern4.pdb
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\obj\Debug\net10.0\Pattern4.genruntimeconfig.cache
+C:\Users\preks\OneDrive\Desktop\Practise\Pattern4\obj\Debug\net10.0\ref\Pattern4.dll
